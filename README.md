@@ -6,7 +6,7 @@ See more: [AWS App Runner で Rust / Axum 製 Web アプリケーションを動
 
 ## Response
 
-URL: `https://{your_id}.awsapprunner.com/`
+URL: `https://{your_id}.awsapprunner.com/mountains`
 
 ### 200 OK
 
